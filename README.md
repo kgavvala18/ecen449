@@ -1,6 +1,6 @@
 # Microprocessor System Design Labs
 
-This repository contains lab work and documentation from a graduate-level Microprocessor System Design course focused on hardware/software co-design using the Zybo Z7-10 FPGA development board
+This repository contains lab work on hardware/software co-design using the Zybo Z7-10 FPGA development board
 
 ## Course Overview
  
