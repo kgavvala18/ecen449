@@ -2,7 +2,7 @@
 
 This repository contains lab work on hardware/software co-design using the Zybo Z7-10 FPGA development board
 
-## Course Overview
+## Overview
  
 **Labs 1 and 2** Focused on using Verilog HDL for digital circuit design.
 
